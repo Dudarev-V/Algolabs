@@ -1,0 +1,6 @@
+C:\Users\Ower\source\repos\MyGens\MyGens\bin\Debug\MyGens.dll
+C:\Users\Ower\source\repos\MyGens\MyGens\bin\Debug\MyGens.pdb
+C:\Users\Ower\source\repos\MyGens\MyGens\obj\Debug\MyGens.csproj.AssemblyReference.cache
+C:\Users\Ower\source\repos\MyGens\MyGens\obj\Debug\MyGens.csproj.CoreCompileInputs.cache
+C:\Users\Ower\source\repos\MyGens\MyGens\obj\Debug\MyGens.dll
+C:\Users\Ower\source\repos\MyGens\MyGens\obj\Debug\MyGens.pdb

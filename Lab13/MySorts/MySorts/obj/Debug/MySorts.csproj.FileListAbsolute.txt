@@ -1,0 +1,6 @@
+C:\Users\Ower\source\repos\MySorts\MySorts\obj\Debug\MySorts.csproj.AssemblyReference.cache
+C:\Users\Ower\source\repos\MySorts\MySorts\obj\Debug\MySorts.csproj.CoreCompileInputs.cache
+C:\Users\Ower\source\repos\MySorts\MySorts\bin\Debug\MySorts.dll
+C:\Users\Ower\source\repos\MySorts\MySorts\bin\Debug\MySorts.pdb
+C:\Users\Ower\source\repos\MySorts\MySorts\obj\Debug\MySorts.dll
+C:\Users\Ower\source\repos\MySorts\MySorts\obj\Debug\MySorts.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyHashMap.dll
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyHashMap.pdb
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyLinkedList.dll
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyLinkedList.pdb
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\obj\Debug\MyHashMap.csproj.AssemblyReference.cache
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\obj\Debug\MyHashMap.csproj.CoreCompileInputs.cache
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\obj\Debug\MyHashMap.csproj.CopyComplete
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\obj\Debug\MyHashMap.dll
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\obj\Debug\MyHashMap.pdb
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyVector.dll
+C:\Users\Ower\source\repos\MyHashMap\MyHashMap\bin\Debug\MyVector.pdb

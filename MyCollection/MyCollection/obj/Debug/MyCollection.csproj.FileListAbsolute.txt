@@ -1,0 +1,15 @@
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyCollection.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyCollection.pdb
+C:\Users\Ower\source\repos\MyCollection\MyCollection\obj\Debug\MyCollection.csproj.AssemblyReference.cache
+C:\Users\Ower\source\repos\MyCollection\MyCollection\obj\Debug\MyCollection.csproj.CoreCompileInputs.cache
+C:\Users\Ower\source\repos\MyCollection\MyCollection\obj\Debug\MyCollection.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\obj\Debug\MyCollection.pdb
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyHashMap.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyVector.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyLinkedList.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyHashMap.pdb
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyVector.pdb
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyLinkedList.pdb
+C:\Users\Ower\source\repos\MyCollection\MyCollection\obj\Debug\MyCollection.csproj.CopyComplete
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyTreeMap.dll
+C:\Users\Ower\source\repos\MyCollection\MyCollection\bin\Debug\MyTreeMap.pdb
